@@ -10,8 +10,6 @@ Cross-Platform Compatibility: PyVids is compatible with Windows, macOS, and Linu
 # Installation
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/bigmrstorm/pyvids.git
 Install Dependencies:
 
