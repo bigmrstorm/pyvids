@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone (https://github.com/yourusername/PyVids.git](https://github.com/bigmrstorm/pyvids.git)
+git clone (https://github.com/bigmrstorm/pyvids.git)
 Install Dependencies:
 
 bash
