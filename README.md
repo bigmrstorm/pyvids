@@ -7,21 +7,18 @@ Simple Interface: PyVids offers a user-friendly interface, making it easy for us
 Flexible Resolution Selection: Users can choose from various resolutions to download videos according to their preferences.
 Visual Progress Bar: With a visual progress bar, users can monitor the download progress in real-time.
 Cross-Platform Compatibility: PyVids is compatible with Windows, macOS, and Linux operating systems.
-Installation
+# Installation
 Clone the Repository:
 
 bash
 Copy code
-git clone (https://github.com/bigmrstorm/pyvids.git)
+git clone https://github.com/bigmrstorm/pyvids.git
 Install Dependencies:
 
-bash
 pip install -r requirements.txt
-
-Usage
+# Usage
 Run PyVids:
 
-bash
 python pyvids.py
 Enter YouTube Link: Paste the link of the YouTube video you want to download into the designated field.
 
@@ -38,6 +35,3 @@ Contributions to PyVids are welcomed! Feel free to fork the repository, make cha
 
 Support
 For any questions, suggestions, or issues, please open an issue or contact us via email.
-
-License
-PyVids is open source software
